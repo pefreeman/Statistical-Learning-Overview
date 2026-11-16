@@ -4,7 +4,7 @@ Lecture Directory:
 | Week | Day | Topic |
 | ---- | --- | ----- |
 | 01 | Tu | Introduction to Statistical Learning |
-| 01 | Th | R Basics |
+| 01 | Th | R Basics (Lab Only - No Notes) |
 | 02 | Tu | Data Manipulation with `dplyr` |
 | 02 | Th | Visualization with `ggplot2` |
 | 03 | Tu | Univariate Data: Basic Hypothesis Tests |
